@@ -1,1 +1,3 @@
 Name: Natthaporn Nanaen
+Weight (kg.): 55
+Height (cm.): 162
